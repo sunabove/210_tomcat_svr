@@ -4,7 +4,7 @@
 
 <html lang="ko">
     <head>
-        <meta http-equiv="refresh" content="0;url=./psdr/main/list.html" />
+        <meta http-equiv="refresh" content="0;url=./psdr/main/main.html" />
         <meta charset="UTF-8" />
         <title>(주)프로컴시스템 Fault Data Download </title> 
     </head>
